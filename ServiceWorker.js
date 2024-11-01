@@ -1,9 +1,9 @@
 const cacheName = "PrototypeForSSVR-VR Meeting Room-0.0.0.1";
 const contentToCache = [
-    "Build/WebClient.loader.js",
-    "Build/WebClient.framework.js",
-    "Build/WebClient.data",
-    "Build/WebClient.wasm",
+    "Build/DemonstrationVRMeeting.github.io.loader.js",
+    "Build/DemonstrationVRMeeting.github.io.framework.js",
+    "Build/DemonstrationVRMeeting.github.io.data",
+    "Build/DemonstrationVRMeeting.github.io.wasm",
     "TemplateData/style.css"
 
 ];
