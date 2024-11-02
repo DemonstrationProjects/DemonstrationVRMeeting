@@ -1,4 +1,4 @@
-const cacheName = "PrototypeForSSVR-VR Meeting Room-0.0.0.1";
+const cacheName = "PrototypeForSSVR-VR Meeting Room-0.0.0.2";
 const contentToCache = [
     "Build/DemonstrationVRMeeting.github.io.loader.js",
     "Build/DemonstrationVRMeeting.github.io.framework.js",
