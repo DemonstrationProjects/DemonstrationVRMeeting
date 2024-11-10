@@ -1,6 +1,6 @@
 {
-    "name": "VR Meeting Room",
-    "short_name": "VR Meeting Room",
+    "name": "VRMR",
+    "short_name": "VRMR",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
